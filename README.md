@@ -9,9 +9,11 @@ It takes 2 arguments:
 
 The script downloads the files to a new folder named 'downloadedFiles' created inside the current folder where the script is.
 
+
 Example:
 
 .\downloadFiles.ps1 -downloadList .\list.txt -webSite "https://archive.org/download/dreamcast.-cdi.-roms.-pack-vlc/"
+
 
 The file list.txt should have one filename per line.
 
